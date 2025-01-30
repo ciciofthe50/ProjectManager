@@ -1,1 +1,2 @@
 # ProjectManager
+An organized, and comprehensive repository for my projects, assignments, and leisure activities relating to programming. This repository is designed to showcase my individual work in coding and progression over the years to monitor my skills and achievements. Although this repository does not include full details of my collaborative works, it will still contain many files and notes written during the process of development.
